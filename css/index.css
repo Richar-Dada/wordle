@@ -1,0 +1,24 @@
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.header {
+    height: 48px;
+    line-height: 48px;
+    font-size: 16px;
+}
+
+.canvas {
+    display: block;
+    position: relative;
+    overflow: hidden;
+}
+
+.canvas.hide {
+    display: none;
+}
+
+.footer {
+    height: 40px;
+}
